@@ -23,7 +23,7 @@ The dictionary is managed using the three data structures mentioned above, and t
 2. Open respected IDE (VS Code or IntelliJ)
 ## Example Output
 **In Spellcheck**
-exclusions
+exclusions <br/>
 tel
 attmail
 uglification
