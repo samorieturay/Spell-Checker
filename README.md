@@ -23,23 +23,23 @@ The dictionary is managed using the three data structures mentioned above, and t
 2. Open respected IDE (VS Code or IntelliJ)
 ## Example Output
 **In Spellcheck**
-> exclusions
-> tel
-> attmail
-> uglification
-> tis
-> northumbria ...
+exclusions
+tel
+attmail
+uglification
+tis
+northumbria ...
 **In Spellchecker**
-> Initiating examination for terms absent in dictionary utilizing HashSet...
-> Time: HashSet: 9350500 nanoseconds
-> Words not found: HashSet: 2266
-> Total words counted for: HashSet: 17624
-> 
-> Initiating examination for terms absent in dictionary utilizing TreeSet...
-> Time: TreeSet: 4335100 nanoseconds
-> Words not found: TreeSet: 2266
-> Total words counted for: TreeSet: 17624
-> 
-> Initiating examination for terms absent in dictionary utilizing ArrayList...
+Initiating examination for terms absent in dictionary utilizing HashSet...
+Time: HashSet: 9350500 nanoseconds
+Words not found: HashSet: 2266
+Total words counted for: HashSet: 17624
+
+Initiating examination for terms absent in dictionary utilizing TreeSet...
+Time: TreeSet: 4335100 nanoseconds
+Words not found: TreeSet: 2266
+Total words counted for: TreeSet: 17624
+
+Initiating examination for terms absent in dictionary utilizing ArrayList...
 ## Contributions
 Contributions are welcome! If you have ideas to improve the algorithm or performance analysis, feel free to submit a pull request.
