@@ -35,12 +35,10 @@ Initiating examination for terms absent in dictionary utilizing HashSet... <br/>
 Time: HashSet: 9350500 nanoseconds <br/>
 Words not found: HashSet: 2266 <br/>
 Total words counted for: HashSet: 17624 <br/>
- <br/>
 Initiating examination for terms absent in dictionary utilizing TreeSet... <br/>
 Time: TreeSet: 4335100 nanoseconds <br/>
 Words not found: TreeSet: 2266 <br/>
 Total words counted for: TreeSet: 17624 <br/>
- <br/>
 Initiating examination for terms absent in dictionary utilizing ArrayList... <br/>
 ## Contributions
 Contributions are welcome! If you have ideas to improve the algorithm or performance analysis, feel free to submit a pull request.
